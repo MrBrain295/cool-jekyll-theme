@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Gabe's Theme
+description: "A theme that is how I would want a website to look. Nothing about it is set yet I'm just gonna change it until I like it."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
